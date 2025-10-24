@@ -16,9 +16,9 @@ timezone:
 
 title: "Evyonne Muriuki" # the main title
 
-tagline: "Cloud and Network Security | Data Science"  # it will display as the subtitle
+tagline: "Telecommunications | Cloud and Network Security | Data Science"  # it will display as the subtitle
 
-description: "My journey and projects in the cloud and data science."
+description: "Evolving from a Telecommunications background to mastering cloud-native and AI technologies."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -33,15 +33,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: "Evyonne Kawira Muriuki"
-  email: "muriukievyonne@gmail.com" # change to your email address
+  name: Evyonne Kawira Muriuki
+  email: muriukievyonne@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - "https://github.com/evyonnemuriuki" # change to your GitHub homepage
+    #- https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/evyonnemuriuki # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - "https://www.linkedin.com/in/evyonne-muriuki"
+    - https://www.linkedin.com/in/evyonne-muriuki
 
 # Site Verification Settings
 webmaster_verifications:
